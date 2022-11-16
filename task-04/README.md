@@ -1,1 +1,0 @@
-So I have created telegram bot few times. But never used python to automate in so I mostly used websites which can controll bots. In that case this was my first time creating a telegram bot with python.
