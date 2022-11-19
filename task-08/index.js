@@ -1,3 +1,23 @@
+document.addEventListener("keypress", (event) =>{
+    var code = event.code;
+    switch(code)
+    {
+        case "KeyW":
+            {one();break;}
+        case "KeyA":
+            {two();break;}
+        case "KeyS":
+            {three();break;}
+        case "KeyD":
+            {four();break;}
+        case "KeyJ":
+            {five();break;}
+        case "KeyK":
+            {six();break;}
+        case "KeyL":
+            {seven();break;}
+    }
+})
 function one()
 {
     var audio = new Audio("./sounds/crash.mp3");
