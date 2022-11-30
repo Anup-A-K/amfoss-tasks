@@ -24,7 +24,7 @@ Tasks were challenging and were hard to understand where as few were easy to do.
 ## My Introduction
 Hello There! I am Anup A Koujalgi from Davangere, Karnataka. I am an average level coder, still exploring different coding languages. I was exposed to coding in this college only did not that much of idea what these are. I mainly like web development, Data Science, App development...:loading:. To Enhance my self in this greater domain and do more projects and hackthons. The better way of doing this is joining clubs.
 
-1. Why must we choose you?
+1. Why must we choose you?**
 	As I am still exploring. Club is a best way to explore it.
 	Many people with same intrests, which will help to grow.
 2. What is your plan for the next 6 months?
