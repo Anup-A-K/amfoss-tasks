@@ -1,6 +1,6 @@
 # amfoss-tasks
 # Anup A Koujalgi
-**I am Anup A Koujalgi from Davangere Karnataka,studying in S3 BTech CSE at Amrita School of Engineering(2021 Batch)
+I am Anup A Koujalgi from Davangere Karnataka,studying in S3 BTech CSE at Amrita School of Engineering(2021 Batch)
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Abekaesh/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
